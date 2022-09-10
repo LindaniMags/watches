@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/watches/static/css/main.46e753a3.css",
+    "main.js": "/watches/static/js/main.3f57edbd.js",
+    "static/js/787.884e199e.chunk.js": "/watches/static/js/787.884e199e.chunk.js",
+    "static/media/wa8.png": "/watches/static/media/wa8.b5eb697904f51a50d288.png",
+    "static/media/sh3.png": "/watches/static/media/sh3.c4731fd4270f1e6c5cbd.png",
+    "static/media/wa6.png": "/watches/static/media/wa6.76c2c5ff6aa739c2ce97.png",
+    "static/media/wa3.png": "/watches/static/media/wa3.160df6e26334bfc3a4d1.png",
+    "static/media/wa2.png": "/watches/static/media/wa2.02ebab7cda59d4cfb54a.png",
+    "static/media/sh5.png": "/watches/static/media/sh5.3aa4f49df5a4f5c0b992.png",
+    "static/media/wa4.png": "/watches/static/media/wa4.a87e4f707d0f8a1bdcbf.png",
+    "static/media/sh2.png": "/watches/static/media/sh2.08817220131d56970e1f.png",
+    "static/media/wa7.png": "/watches/static/media/wa7.de7b9f0ce99cc0e62099.png",
+    "static/media/sh8.png": "/watches/static/media/sh8.d75bbbfb63a608ddc290.png",
+    "static/media/sh7.png": "/watches/static/media/sh7.bcc619010f0900df604c.png",
+    "static/media/wa9.png": "/watches/static/media/wa9.186501a8cb7f766c703d.png",
+    "static/media/sh9.png": "/watches/static/media/sh9.abec81c94c80d0df4611.png",
+    "static/media/wa5.png": "/watches/static/media/wa5.c4f8345c944ac473ab9f.png",
+    "static/media/wa1.png": "/watches/static/media/wa1.5411fa3d391fb79887ea.png",
+    "static/media/sh6.png": "/watches/static/media/sh6.ab7c418b2f09efc6bbf4.png",
+    "static/media/Mask group.png": "/watches/static/media/Mask group.10a652d980084390d5f4.png",
+    "static/media/sh4.png": "/watches/static/media/sh4.ec5cef4d210ce100dee2.png",
+    "static/media/image 21.png": "/watches/static/media/image 21.7899310da9bceab6f3bf.png",
+    "static/media/Rectangle 24.png": "/watches/static/media/Rectangle 24.bf9e3ee26bda0487fa4c.png",
+    "static/media/sh1.png": "/watches/static/media/sh1.c6647925b75fa12d2f6b.png",
+    "static/media/logo.svg": "/watches/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/watches/index.html",
+    "main.46e753a3.css.map": "/watches/static/css/main.46e753a3.css.map",
+    "main.3f57edbd.js.map": "/watches/static/js/main.3f57edbd.js.map",
+    "787.884e199e.chunk.js.map": "/watches/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e753a3.css",
+    "static/js/main.3f57edbd.js"
+  ]
+}
